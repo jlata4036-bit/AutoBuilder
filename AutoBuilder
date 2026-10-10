@@ -1,0 +1,10 @@
+AutoBuilder
+A Minecraft Java Edition Fabric mod project.
+Planned Features
+Load .schem files.
+Load .litematic files.
+Preview schematics.
+Configurable controls.
+Inventory and hotbar management.
+Minecraft Version
+1.21.11
